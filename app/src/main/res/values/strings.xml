@@ -5,4 +5,9 @@
     <string name="password">password</string>
     <string name="login">LOGIN</string>
     <string name="forgot_password">Forgot Password</string>
+    <string name="history">history</string>
+    <string name="attendance">attendance</string>
+    <string name="profile">profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
