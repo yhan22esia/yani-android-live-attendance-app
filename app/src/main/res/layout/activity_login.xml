@@ -50,6 +50,10 @@
 
         </com.google.android.material.textfield.TextInputLayout>
 
+
+
+
+
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="284dp"
             android:layout_height="56dp"
@@ -69,6 +73,17 @@
                 android:peddingStart="16dp" />
 
         </com.google.android.material.textfield.TextInputLayout>
+        <Button
+            android:id="@+id/btn_forgot_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_transparent"
+            android:textAllCaps="false"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_gravity=""
+            android:layout_marginTop="20dp"
+            android:text="@string/forgot_password"/>
+
 
         <Button
             android:id="@+id/btn_login"
